@@ -1,0 +1,23 @@
+
+h
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(Çµí‘
+B
+java:S1481	",Remove this unused "counter" local variable.(ŒÂëó
+t
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÿàæ´ýÿÿÿÿ
+V	java:S125!"<This block of commented-out lines of code should be removed.(£Œ™ßÿÿÿÿÿ
+<
+java:S1905&"&Remove this unnecessary cast to "int".(Õü¨Å
+X	java:S125+"<This block of commented-out lines of code should be removed.(»›©¬8Ç¢Ê¶µ/
+N	java:S106/"9Replace this use of System.out or System.err by a logger.(ñ£°€
+N	java:S1060"9Replace this use of System.out or System.err by a logger.(ÚÐ¥
+N	java:S1061"9Replace this use of System.out or System.err by a logger.(¯œ€§
+V	java:S1254"<This block of commented-out lines of code should be removed.(«Ö×ñüÿÿÿÿ
+V	java:S125<"<This block of commented-out lines of code should be removed.(‚¯×–üÿÿÿÿ
+V	java:S125Q"<This block of commented-out lines of code should be removed.(û¾ú ýÿÿÿÿ
+j
+java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(»³Íž
+o
+java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(Óóº´úÿÿÿÿ
+0
+java:S1220""Move this file to a named package.
